@@ -1,0 +1,33 @@
+#login{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+#login {
+    width: 380px;
+}
+.login label {
+    font-size: 16px;
+    line-height: 1.5;
+    display: inline-block;
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+#login h1 a, .login h1 a {
+    background-image: url('https://cdn.nskstudios.com/blackcats/logo-blackcats.png');
+    margin-bottom: 0;
+    background-size: 300px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    .login form {
+        border-radius: 20px;
+    }
+    .wp-core-ui .button-primary {
+        background: #000 !important;
+        width: 100%;
+       border-radius: 14px!important;;
+        box-shadow: 0 1px 0 #e0e0e0e0 !important;
+
+    }
+    body.login {background-color: #e0e0e0e0;} .login #backtoblog a, .login #nav a {color: #000 !important}
